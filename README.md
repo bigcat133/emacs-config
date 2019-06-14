@@ -1,4 +1,4 @@
-##for emacs 26.2
+## for emacs 26.2
 
 include base config
 
